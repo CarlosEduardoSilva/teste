@@ -1,0 +1,62 @@
+﻿@using EcommerceOsorioManha.Models
+@model  List<ItemVenda>
+@{
+    ViewBag.Title = "CarrinhoCompras";
+    String guid = ViewBag.Guid;
+}
+
+<h2>Carrinho de Compras</h2>
+<h1>@guid</h1>
+<table class="table">
+    <tr>
+        <th>
+            Quantidade
+        </th>
+        <th>
+            Preço
+        </th>
+        <th>Imagem    </th>
+        <th>
+            
+        </th>
+        <th>
+            
+        </th>
+        <th>
+            Subtotal
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Preco)
+                @{double subtotal = item.Quantidade * item.Preco;} 
+            </td>
+            <td>
+                <img src="~/Images/@item.Produto.Imagem"
+                     alt="Imagem do Produto"
+                     style="width:100px;height:100px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Data)
+            </td>
+            <td>
+
+                @Html.ActionLink("Detalhes", "DetalheProduto", "Home", new { id = item.Produto.ProdutoId }, null)<br />
+                @Html.ActionLink("Remover", "RemoverItem", "Home",new { id = item.ItemVendaId}, null)
+
+            </td>
+
+            <td>
+              @subtotal.ToString("C2")
+            </td>
+        </tr>
+    }
+
+</table>

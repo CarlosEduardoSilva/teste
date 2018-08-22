@@ -1,0 +1,115 @@
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\ApplicationInsights.config
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\csc.exe
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\vbc.exe
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\VBCSCompiler.exe
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\EcommerceOsorioManha.dll.config
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\EcommerceOsorioManha.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\EcommerceOsorioManha.pdb
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.Web.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.ApplicationInsights.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Helpers.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Mvc.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Razor.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.Deployment.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.Razor.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.Web.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.ApplicationInsights.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Razor.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.Deployment.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.Razor.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Helpers.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Mvc.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.pdb
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\EntityFramework.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\EntityFramework.SqlServer.dll
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\EntityFramework.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\bin\EntityFramework.SqlServer.xml
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.csprojResolveAssemblyReference.cache
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.InitialCreate.resources
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.csproj.GenerateResource.Cache
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.AlterTableProduto.resources
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.AddTableCategoria.resources
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.AddCategoriaTableProduto.resources
+C:\Users\diogo\Documents\Visual Studio 2015\Projects\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.AddTableItemVenda.resources
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\ApplicationInsights.config
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\csc.exe
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\vbc.exe
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\EcommerceOsorioManha.dll.config
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\EcommerceOsorioManha.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\EcommerceOsorioManha.pdb
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\EntityFramework.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.Web.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Helpers.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Mvc.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Razor.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.Razor.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\EntityFramework.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.Web.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Razor.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Webpages.Razor.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Helpers.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\bin\System.Web.Mvc.xml
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.csprojAssemblyReference.cache
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.InitialCreate.resources
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.AlterTableProduto.resources
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.AddTableCategoria.resources
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.AddCategoriaTableProduto.resources
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.AddTableItemVenda.resources
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.csproj.GenerateResource.cache
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.csproj.CopyComplete
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.dll
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.pdb
+C:\Users\Carlos\Source\Repos\ProjetoProfessor\EcommerceOsorioManha\EcommerceOsorioManha\obj\Debug\EcommerceOsorioManha.Migrations.Migrationnova.resources
